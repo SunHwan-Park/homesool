@@ -153,12 +153,12 @@
             >
               술게임 모드
             </li>
-            <li
+            <!-- <li
               class="dropdown-item pointer"
               @click="changeMode('singing')"
             >
               노래방 모드
-            </li>
+            </li> -->
             <li
               class="dropdown-item pointer"
               @click="changeMode('anonymous')"
